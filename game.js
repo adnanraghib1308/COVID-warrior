@@ -320,8 +320,8 @@ function immunityLoss(player, corona){
 
 function win(player, vaccine){
         game.destroy();
-        win = this.physics.add.sprite(0, 0, 'win').setOrigin(0, 0);
-        win.body.allowGravity = false;
+        win = this.add.image(0, 0, 'win').setOrigin(0, 0);
+        //win.body.allowGravity = false;
         win.setScale(1.3,1.1 );
         winText = this.add.text(250, 70, 'WINNER....!', { fontSize: '70px', fill: '#FF6347' });
         winText.setScrollFactor(0);
