@@ -1,7 +1,9 @@
 # COVID warrior
 This is platform game build with the Phaser 3, tilemap and javascript. Tilemap allows us to create amazing gameworlds. The goal of the game is to get the vaccine for corona while fighting with various obstacles. The main objective of this project is to show how easy it is to develop a simple game using phaser. Photon Storm’s Phaser is one of the most trusted frameworks for developing professional-quality 2D games in JavaScript. With Phaser, it’s feasible to make performant games that run smoothly in all major browsers, across all major systems, while only having to maintain one codebase. You can use the code to develop your own exciting games.
+Give it a star if you like it.
 
 ## Getting started
+
 You need a local server to run the game. You can use Brackets editor for that.
 
 ## ScreenShots of game
@@ -13,3 +15,5 @@ You need a local server to run the game. You can use Brackets editor for that.
  ## Acknowledgement
  I got inspiration from this aritcle and have used some code and assets.
  https://stackabuse.com/phaser-3-and-tiled-building-a-platformer/
+ 
+
