@@ -4,7 +4,7 @@ This is platform game build with the Phaser 3, tilemap and javascript. Tilemap a
 
 ## Getting started
 
-You need a local server to run the game. You can use Brackets editor for that.
+You need a local server to run the game.
 
 ## ScreenShots of game
  ![Screenshot 2020-07-19 at 3 08 12 PM](https://user-images.githubusercontent.com/56679676/87871914-1ae8c900-c9d2-11ea-8366-7c9f8280eb0e.jpg)
